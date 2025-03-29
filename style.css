@@ -1,0 +1,11 @@
+#logo {
+    width: 200px;
+    margin: 0 auto; /* This centers the element horizontally */
+    display: block; /* Ensures the margin auto works */
+}
+
+/* Center the #main and add margin */
+#main {
+    margin: 200px auto; /* Adds margin and centers it horizontally */
+    text-align: center; /* Centers text or child elements within #main */
+}
